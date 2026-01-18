@@ -1,0 +1,3 @@
+[submodule "ComfyUI_frontend"]
+	path = ComfyUI_frontend
+	url = https://github.com/hodor/ComfyUI_frontend.git
